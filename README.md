@@ -27,3 +27,9 @@ Goal: Automatically move files into folders based on their extensions.
 Goal: Load a CSV file and calculate average values.
 •	Use pandas to read and analyze.
 •	Example: Calculate average salary from a dataset.
+
+
+
+To DO Projects :-
+1.  Python to build a mini language model or chatbot using tools like Hugging Face Transformers? 
+2.  meta-level thinking applies to software architecture or AI design?
